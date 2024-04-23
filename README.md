@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm MosTaFa-Abdulrahman</h1>
-<h3 align="center">I am Mern Stack Developer using (Node.js, React.js) from Egypt</h3>
+<h3 align="center">
+I'm a Software Engineer from Egypt. I specialize in React.js, Express.js, JavaScript, REST API, NOSQL. I am passionate about building excellent software that improves the lives of clients ranging from individuals and small businesses to large enterprise corporations. Also, I love to create and build websites that are mobile-first ready and fully responsive to individuals, startups, businesses, etc. I'm always motivated and have the desire to learn more. While I'm not learning something new, debugging some code or trying to position elements right, I love to hang out with my friends, listen to podcast or music, watching movies, etc. Welcome to my GitHub profile!
+
+🌍 Based in Egypt 🖥️ LinkedIn ✉️ Contact: mostafa.abdulrahman2001@gmail.com 🚀 Currently working on an E-commerce Aspnetcore website using React.js and MongoDB 🌱 Learning and growing in the world of software development 🤝 Open for collaboration on projects 🧠 
+</h3>
+
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt=""/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-abdulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-abdulrahman" /> </p>
@@ -10,9 +15,9 @@
 
 - 💬 Ask me about **React , Node**
 
-- 📫 How to reach me **darshmostafa932@gmail.com**
+- 📫 How to reach me **mostafa.abdulrahman2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oparHWueql6hETPp1ExKVkrEV1VX9u1n/view](https://drive.google.com/file/d/1oparHWueql6hETPp1ExKVkrEV1VX9u1n/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QWis0PxF3y_o2_rn59ImorrB8Q0CpI9k/view?usp=drivesdk](https://drive.google.com/file/d/1QWis0PxF3y_o2_rn59ImorrB8Q0CpI9k/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
