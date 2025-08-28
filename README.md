@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm Full Stack Web Developer with experience in web development and building responsive web<br>applications with (React and Node.js). Strong in both front-end and back-end development, with a focus on<br>creating seamless user experiences and robust server functionalities
+ I'm a Full Stack Developer specialist with expertise in React.js, Express.js, MongoDB and PostgreSQL skilled in 
+building responsive web applications with modern state management and UI frameworks and I worked on it and 
+also Developed diverse full-stack projects including elearning platforms, eCommerce stores, social media apps, and 
+food delivery systems with payment integration and real-time features
 
 
 ## 🌐 Socials:
